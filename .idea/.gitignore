@@ -1,0 +1,6 @@
+# Default ignored files
+/workspace.xml
+*.pyc
+*~
+__pycache__
+venv
